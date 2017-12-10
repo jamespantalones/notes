@@ -1,0 +1,52 @@
+### a non-comprehensive, ever-growing, list of albums i especially like mostly all the way through and find myself not getting sick of ever
+
+- Gary Wilson - *You Think You Really Know Me* - 1977
+- Aba Shanti-I - *Wrath Of Jah* - 1996
+- Aira Mitsuki - *Plastic* - 2009
+- Choco & His Mafimba Drum Rhythms - *Afro-Latin Voodoo Rhythms* - ~50s
+- Cheikha Rimitti - *Ghir El Baroud* - 1989
+- Ganimian & His Orientals - *Come With Me To The Casbah* - ~50s
+- Rexy - *Running Out Of Time* - 1981
+- Stereolab - *Dots And Loops* - 1997
+- This Mortal Coil - *Filigree & Shadow* - 1986
+- Virna Lindt - *Shiver* - 1984
+- Virna Lindt - *Play/Record* - 1985
+- Crass - *Stations Of The Crass* - 1979
+- Tom Recchion - *Chaotica* - 1996
+- Ann Steel - *The Ann Steel Album* - 1979
+- Felix Kubin - *Filmmusik* - 1998
+- The Black Dog - *Music For Adverts* - 1996
+- D'eon - *Blackout* - 2013
+- General Strike - *Danger In Paradise* - 1984
+- Jimi Tenor - *Beyond The Stars* - 2004
+- Pyrolator - *Wunderland* - 1984
+- Fleetwood Mac - *Rumours* - 1977
+- Roland Young - *Hearsay I-Land* - 1987
+- Wally Badarou - *Echoes* - 1984
+- Les Baxter - *Jungle Jazz* - 1959
+- Les Baxter - *Skins* - ~50s
+- Group Home - *Livin' Proof* - 1995
+- MF Doom - *Operation Doomsday* - 1998
+- Slum Village - *Fantastic Vol2* - 1998
+- Leven Signs - *Hemp Is Here* - 1985
+- Tom Scott - *Honeysuckle Breeze* - 1967
+- Strawberry Alarm Clock - *Wake Up...It's Tomorrow* - 1967
+- Strawberry Alarm Clock - *The World In A Sea Shell* - 1968
+- Pharoah Sanders - *Thembi* - 1971
+- Gary Davis & His Professor - *Chocolate Star* - 1982
+- Bruce Haack - *Electric Lucifer* - 1970
+- Mort Garson - *Wozard Of Iz* - 1968
+- James Mason - *Rhythm Of Life* - 1977
+- Iasos - *Interdimensional Music* - 1975
+- Ralph Lundsten - *Shangri La* - 1975
+- DV-i - *Aurora Memoria Philosophical Data Session: 2093* - 2015
+- Sade - *Promise* - 1985
+- The Free Design - *Kites Are Fun* - 1967
+- Dee C. Lee - *Shrine* - 1986
+- Nancy Sinatra & Lee Hazelwood - *Nancy and Lee* - 1968
+- Sneaker Pimps - *Becoming X* - 1996
+- Suicide - *Suicide* - 1977
+- Suicide - *Suicide: Martin Rev/Alan Vega* - 1980
+- Vangelis - *The City* - 1990
+- Vangelis - *Blade Runner OST* - 1982
+- Aaliyah - *Aaliyah* - 2002
