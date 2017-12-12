@@ -81,6 +81,4 @@
 - Todd Rundgren - *A Wizard, A True Star* - 1973
 - Cherrelle - *Fragile* - 1984
 - Magma - *Merci* - 1984
-
-
-
+- Glenda McLeod - *No Stranger To Love* - 1983
