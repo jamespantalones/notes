@@ -50,3 +50,37 @@
 - Vangelis - *The City* - 1990
 - Vangelis - *Blade Runner OST* - 1982
 - Aaliyah - *Aaliyah* - 2002
+- Public Image Ltd - *Second Edition* - 1979
+- The Residents - *Eskimo* - 1979
+- Residents - *Fingerprince* - 1977
+- Residents - *Tunes Of Two Cities* - 1982
+- Magnet - *Wicker Man Soundtrack* - 1998
+- Quasimoto - *The Unseen* - 1998
+- Sunn O))) - *Black One* - 2005
+- Takako Minekawa - *Cloudy Cloud Calculator* - 1998
+- Otis G. Johsnon - *New Home* - 2002
+- Broadcast - *Tender Buttons* - 2005
+- Gang Gang Dance - *Eye Contact* - 2011
+- Martin Rev - *Strangeworld* - 2000
+- Martin Rev - *See Me Ridin'* - 1995
+- Yann Tomita - *Music For Astro Age* - 1992
+- Constance Demby - *Ambrosial Waves* - 2011
+- Nite Jewel - *Good Evening* - 2009
+- Jay Z - *Reasonable Doubt* - 1996
+- My Bloody Valentine - *Loveless* - 1991
+- Connan Mockasin - *Caramel* - 2013
+- Droop-E - *BLVCK Diamond* - 2010
+- Beat Detectives - *ASSCOP* - 2014
+- Oneohtrix Point Never - *Replica* - 2011
+- Dean Blunt
+- Dr. Buzzards Original Savannah Band - *Meets King Pennet* - 1978
+- Clara Mondshine - *Visions Of Audio* - 1987
+- Julee Cruise - *Floating Into The Night* - 1989
+- Soft Machine - *Volume 2* - 1969
+- Kazuhiro Nishimatsu - 「貿易風物語」- 1986
+- Todd Rundgren - *A Wizard, A True Star* - 1973
+- Cherrelle - *Fragile* - 1984
+- Magma - *Merci* - 1984
+
+
+
