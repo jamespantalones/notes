@@ -2,7 +2,7 @@
 
 ### defer work
 ```js
-function deferWork() {
+function deferWork(fn) {
   if ((typeof requestIdleCallback as any) !== 'undefined') {
     requestIdleCallback(fn, { timeout: 60 });
   } else if (typeof requestAnimationFrame !== 'undefined') {
