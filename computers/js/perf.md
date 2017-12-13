@@ -12,3 +12,5 @@ function deferWork() {
   }
 }
 ```
+
+and called like: `deferWork(() => window.localStorage.setItem('some_key', src))`
