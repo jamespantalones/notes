@@ -1,0 +1,23 @@
+## Cron
+
+### [Paul Irish's Cron](https://github.com/paulirish/dotfiles/blob/master/crontab)
+```
+#
+# env EDITOR=nano crontab -e
+#
+# see cron/ folder
+#    chmod +x *.sh
+
+#=====================================================================#
+# General                                                             #
+#=====================================================================#
+#  Min  |  Hour  |  Mday  |  Month  |  Wday  |  Command               #
+#=====================================================================#
+   0       3        *        *         *        $HOME/code/dotfiles/cron/daily-nighttime.sh > /dev/null 2>&1
+   */5      *        *        *         *       $HOME/code/dotfiles/cron/every-five-minutes.sh > /dev/null 2>&1
+   15      *        *        *         *        $HOME/code/dotfiles/cron/every-hour.sh > /dev/null 2>&1
+   0       0        *        *         0        $HOME/code/dotfiles/cron/twice-a-week.sh > /dev/null 2>&1
+   0       0        *        *         4        $HOME/code/dotfiles/cron/twice-a-week.sh > /dev/null 2>&1
+#  */15    *        *        *         *        $HOME/bin/temp-help.sh
+#=====================================================================#
+```
