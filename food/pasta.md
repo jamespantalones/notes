@@ -1,3 +1,15 @@
+
+## Pasta Alla Chittara dough
+- `1 cup 00 flour`
+- `1 cup semolina flour`
+- `1 1/4 cups egg yolk only!`
+
+* make mound, blend in. 
+* knead, but not too much
+* let rest a least 30 mins
+
+
+
 ## Bolognese
 
 INGREDIENTS
