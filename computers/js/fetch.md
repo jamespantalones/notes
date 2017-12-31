@@ -1,5 +1,29 @@
 ## List of Fetching through time
 
+### easy way to add async/await without too much baggage
+
+`npm install --save regenerator`
+`npm install --save-dev babel-present-env`
+
+`import 'regenerator-runtime/runtime.js';`
+
+```json
+{
+	"presets": [
+		[
+			"env", {
+				"targets": {
+					"browsers": [
+						"last 2 versions",
+						"IE >= 9"
+					]
+				}
+			}
+		]
+	]
+}
+```
+
 ### V5
 
 ```js
