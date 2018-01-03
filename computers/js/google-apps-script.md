@@ -1,4 +1,4 @@
-## grab all text from a google doc and shoot up lambda
+## grab all text from a google doc and shoot up to lambda
 
 ```js
 //update
