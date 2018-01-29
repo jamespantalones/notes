@@ -13,7 +13,9 @@
 - `brew install libavcodec-extra-53`
 
 
-`avconv -i 'input.ape' -id3v2_version 3 -codec:a libmp3lame -b 320k 'output.mp3'`
+```bash
+avconv -i 'input.ape' -id3v2_version 3 -codec:a libmp3lame -b 320k 'output.mp3'
+```
 
 
 ### convert entire ape folder to mp3
