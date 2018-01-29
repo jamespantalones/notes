@@ -14,3 +14,18 @@
 
 
 `avconv -i 'input.ape' -id3v2_version 3 -codec:a libmp3lame -b 320k 'output.mp3'`
+
+
+### convert entire ape folder to mp3
+
+```bash
+for d in *; do
+  ## get ext
+  ext="${d#*.}"
+  ## get name without filetype
+  pre="${d%%.*}"
+  if [ "$ext" = "ape" ]; then
+    avconv -i "$d" -id3v2_version 3 -codec:a libmp3lame -b 320 "${pre}.mp3"
+  fi
+done
+```
