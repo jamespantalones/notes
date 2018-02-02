@@ -8,7 +8,7 @@ func (a ByAge) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
 func (a ByAge) Less(i, j int) bool { return a[i].Age < a[j].Age }
 ```
 
-
+### Method set rules
 ```
 Receivers           Values
 --------------------------------
