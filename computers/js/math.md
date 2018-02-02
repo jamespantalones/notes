@@ -15,3 +15,9 @@ export const randomInt = (min, max) => {
   return Math.floor(Math.random() * (max - min) + min)
 }
 ```
+
+```js
+function lerp (start, end, amt){
+  return (1-amt)*start+amt*end
+}
+```
