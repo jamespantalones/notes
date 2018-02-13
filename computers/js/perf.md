@@ -2,15 +2,18 @@
 
 ### defer work
 ```js
-function deferWork(fn) {
-  if ((typeof requestIdleCallback as any) !== 'undefined') {
-    requestIdleCallback(fn, { timeout: 60 });
-  } else if (typeof requestAnimationFrame !== 'undefined') {
-    requestAnimationFrame(fn);
-  } else {
-    setTimeout(fn, 16.66);
-  }
-}
+export const deferWork = fn => {
+	if (typeof requestIdleCallback !== 'undefined') {
+		window.requestIdleCallback(fn, { timeout: 60 });
+	} else if (typeof requestAnimationFrame !== 'undefined') {
+		window.requestAnimationFrame(fn);
+	} else {
+		window.setTimeout(fn, 16.66);
+	}
+
+	return true;
+};
+
 ```
 
 and called like: `deferWork(() => window.localStorage.setItem('some_key', src))`
