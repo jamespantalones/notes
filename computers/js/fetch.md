@@ -1,4 +1,24 @@
+
+## Add a timeout to fetch wrapper
+
+```js
+function fetchWrapper(url, options, timeout) {
+    return new Promise((resolve, reject) => {
+      fetch(url, options).then(resolve).catch(reject);
+
+      if (timeout) {
+        const e = new Error("Connection timed out");
+        setTimeout(reject, timeout, e);
+      }
+    });
+  }
+```
+
 ## List of Fetching through time
+
+
+
+
 
 ### easy way to add async/await without too much baggage
 
