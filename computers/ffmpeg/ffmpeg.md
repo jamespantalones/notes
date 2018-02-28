@@ -39,8 +39,10 @@ ffmpeg -f gif -i FOO.gif -pix_fmt yuv420p -c:v libx264 -movflags +faststart -fil
 
 
 ### youtube-dl
+```bash
 # Download single entry
 youtube-dl -i --extract-audio --audio-format mp3 --audio-quality 0 YT_URL
 
 # Download playlist
 youtube-dl -ict --yes-playlist --extract-audio --audio-format mp3 --audio-quality 0 https://www.youtube.com/playlist?list=UUCvVpbYRgYjMN7mG7qQN0Pg
+```
