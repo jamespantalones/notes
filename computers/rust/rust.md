@@ -1,5 +1,27 @@
 ### Rust stuff (in progress learning)
 
+
+#### Mean/avg/mode
+
+```rust
+fn avg(numbers: &[i32]) -> f32 {
+    let mut sum = 0;
+    for x in numbers {
+        sum += x;
+    }
+    sum as f32 / numbers.len() as f32
+}
+
+
+fn main(){
+    let v = vec![9203,12,594,2395,23,5];
+    let a = avg(&v);
+    println!("{}", a);
+    
+    
+}
+```
+
 #### Struct setup
 ```rust
 //allow println! to handles struct formatting
