@@ -4,7 +4,17 @@
 #### Mean/avg/mode
 
 ```rust
-fn avg(numbers: &[i32]) -> f32 {
+/*
+Given a list of integers, use a vector and return the mean (average),
+median (when sorted, the value in the middle position),
+and mode (the value that occurs most often; a hash map will be helpful here)
+of the list.
+
+*/
+
+use std::collections::HashMap;
+
+fn average(numbers: &[i32]) -> f32 {
     let mut sum = 0;
     for x in numbers {
         sum += x;
@@ -12,14 +22,39 @@ fn avg(numbers: &[i32]) -> f32 {
     sum as f32 / numbers.len() as f32
 }
 
+fn mean(numbers: &mut [i32]) -> i32{
+    numbers.sort();
+    let mid = numbers.len() / 2;
+    numbers[mid]
+}
+
+fn mode(numbers: &[i32]) -> i32 {
+    let mut map = HashMap::new();
+    for &num in numbers {
+        let count = map.entry(num).or_insert(0);
+        *count += 1;
+    }
+    
+    map.into_iter()
+        .max_by_key(|&(_, count)|count)
+        .map(|(val, _)|val)
+        .expect("Cannot computer the mode of zero number")
+}
+
+
 
 fn main(){
-    let v = vec![9203,12,594,2395,23,5];
-    let a = avg(&v);
-    println!("{}", a);
+    let mut numbers = [9203,12,12,12,594,23,2395,23,5];
+    let av = average(&numbers);
+    let m = mean(&mut numbers);
+    let mo = mode(&numbers);
     
+    println!("Average is: {}", av);
+    println!("Mean is: {}", m);
+    println!("Mode is: {}", mo);
     
 }
+
 ```
 
 #### Struct setup
