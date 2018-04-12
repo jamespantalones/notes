@@ -1,7 +1,7 @@
 ## useful ffmpeg stuff
 
 ### Extract first frame as image
-`ffmpeg -ss 0 -i input.mp4 -t 1 -f image2 poster.jpg`
+`ffmpeg -i ${vPath} -vframes 1 ${POSTER_NAME}`
 
 ### convert mp4 to webm
 `ffmpeg -i input.mp4 -c:v libvpx -crf 10 -b:v 1M -c:a libvorbis output.webm`
