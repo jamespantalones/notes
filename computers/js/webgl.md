@@ -1,3 +1,10 @@
+### normalize mouse coords
+
+```glsl
+vec2 mouse_norm = vec2( m.x/screen.width, 1.0 - m.y/screen.height )
+```
+
+
 ### vanilla webgl with uniform update
 #### (ripped from a typescript project of mine, and this file has VERY lazy typescript)
 
